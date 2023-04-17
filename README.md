@@ -14,7 +14,7 @@ StyleGAN2-ADA 학습된 모델에서 50000장을 뽑아 계산하였음.
 ![FID_Image](https://user-images.githubusercontent.com/98318326/232466544-733051c3-cd3b-4300-83f8-b7cf6621dfe2.png)  
 FID : 40.39585332718843
 
-## StyleGan2-ADA IS // Original-Image IS
+## StyleGan2-ADA IS / Original-Image IS
 Original Image (2000장)  
 (1.64908, 0.14787318)  
 avg = 1.64908  
