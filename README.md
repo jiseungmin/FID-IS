@@ -11,6 +11,8 @@ IS가 높을수록 생성된 이미지가 다양하면서도 질이 높을을 �
 
 ## StyleGAN2-ADA FID  
 ![image](https://user-images.githubusercontent.com/98318326/232775844-de6c8892-6eb5-465f-989a-e121d01844ad.png) (왼쪽-original, 오른쪽-StyleGan2-ada)  
+  
+  
 StyleGAN2-ADA 학습된 모델에서 50000장을 뽑아 계산하였음.
 ![FID_Image](https://user-images.githubusercontent.com/98318326/232466544-733051c3-cd3b-4300-83f8-b7cf6621dfe2.png)  
 FID : 40.39585332718843
