@@ -10,8 +10,9 @@ FID가 낮을수록 생성된 이미지가 실제 이미지와 유사함을 나�
 IS가 높을수록 생성된 이미지가 다양하면서도 질이 높을을 나타낸다.
 
 ## original Image / StyleGAN2-ADA Image
+왼쪽-Original Image / 오른쪽-StyleGAN2-ADA Image  
 ![image](https://user-images.githubusercontent.com/98318326/232775844-de6c8892-6eb5-465f-989a-e121d01844ad.png)  
-(왼쪽-Original Image, 오른쪽-StyleGAN2-ADA Image)  
+
 
 ## StyleGAN2-ADA FID    
 StyleGAN2-ADA 학습된 모델에서 50000장을 뽑아 계산하였음.
