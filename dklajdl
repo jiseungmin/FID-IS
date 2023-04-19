@@ -1,0 +1,126 @@
+[33mcommit ddd1711f3d87396ed105992ebf94e6ea3f9e86ab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: ea38d63 106c89a
+Author: jiseungmin <sm46384638@naver.com>
+Date:   Wed Apr 19 21:28:02 2023 +0900
+
+    Merge branch 'main' of https://github.com/jiseungmin/FID-IS
+
+[33mcommit ea38d63ef60f671242bc5d43121de3bf58b68839[m
+Author: jiseungmin <sm46384638@naver.com>
+Date:   Wed Apr 19 21:27:11 2023 +0900
+
+    learning image add
+
+[33mcommit 106c89af060e0d5e0dacfc261ac6d871eafc5967[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:28:41 2023 +0900
+
+    Update README.md
+
+[33mcommit 6e07c4fb109a2505c1f1f7ef6fa523be5d514e6d[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:28:01 2023 +0900
+
+    Update README.md
+
+[33mcommit ba862846b5f4a56ee0b63e8381d8bc1311e46097[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:27:49 2023 +0900
+
+    Update README.md
+
+[33mcommit e2f20f6fb74606de0b83b69229d67f9bf88f6507[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:27:07 2023 +0900
+
+    Update README.md
+
+[33mcommit 7ba05452c895d0ba13e18fc9d50d537f61370046[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:26:40 2023 +0900
+
+    Update README.md
+
+[33mcommit 15a7c2f81f130634d26eb6dfc276e5888d8ae362[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:26:30 2023 +0900
+
+    Update README.md
+
+[33mcommit 334666e477e36284a5fd3b3d07c198999c508904[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:26:08 2023 +0900
+
+    Update README.md
+
+[33mcommit 36648f54b05c42d46c753ba0c03911d41f034c94[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:23:45 2023 +0900
+
+    Update README.md
+
+[33mcommit dbf58ea12a6633a3fa3848ce51d0d344a9b5d288[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:23:29 2023 +0900
+
+    Update README.md
+
+[33mcommit 33ba2c4286a909fdc1bbe15f69bde16b699b0905[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:23:00 2023 +0900
+
+    Update README.md
+
+[33mcommit 9eafd5df66389622496bbd799079a503221a3060[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:22:36 2023 +0900
+
+    Update README.md
+
+[33mcommit 55e1aa36f5d43a73bf20891cb089df6d746635a7[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Tue Apr 18 21:21:24 2023 +0900
+
+    Update README.md
+
+[33mcommit c8f424224908d885f86daaf6c1dba12bec604694[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Mon Apr 17 20:14:54 2023 +0900
+
+    Update README.md
+
+[33mcommit df928b2611418289ee56eea69f6c9181f1321532[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Mon Apr 17 20:13:01 2023 +0900
+
+    Update README.md
+
+[33mcommit e78e1badb9e5b1566469dbb9b497c9725a1f6dfc[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Mon Apr 17 20:11:03 2023 +0900
+
+    Update README.md
+
+[33mcommit 76edc6bf59cc7548d7110d8569ae21f3a9365d9c[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Mon Apr 17 20:07:16 2023 +0900
+
+    Update README.md
+
+[33mcommit be2095a7e11904ee7bb2bcfae2ec163ddce2fcd8[m
+Author: jiseungmin <98318326+jiseungmin@users.noreply.github.com>
+Date:   Mon Apr 17 20:07:01 2023 +0900
+
+    Create README.md
+
+[33mcommit a6686d71c71af202e97f85643759db6a6fa003fe[m
+Author: jiseungmin <sm46384638@naver.com>
+Date:   Mon Apr 17 19:50:28 2023 +0900
+
+    graph y-axis modify
+
+[33mcommit 83e82a3f471e4f674623972cbb069f9862eb49fc[m
+Author: jiseungmin <sm46384638@naver.com>
+Date:   Mon Apr 10 18:32:53 2023 +0900
+
+    FID/IS
